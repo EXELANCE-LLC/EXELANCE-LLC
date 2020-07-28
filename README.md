@@ -48,9 +48,6 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Bigo's github stats](https://github-readme-stats.vercel.app/api?username=EXELANCE-ORG&show_icons=true&hide_border=true)
-
-
 ***As developers, we have a responsibility to protect the data our users trust us with. No one wants to wake up to the news that their site was hacked and all of the user accounts stolen.***
 
 [![Discord](https://img.shields.io/discord/731577337686130858?label=Join%20The%20DIscord%21&logo=Sadie%20Lang&style=for-the-badge)](https://discord.gg/tRm446W)
