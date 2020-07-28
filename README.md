@@ -24,7 +24,7 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 - 👨🏽‍💻 I’m currently an with [Exelance](https://exelance.org) working;
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🤔 My interests are with Natural Language Processing/Understanding, Reinforcement Learning, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via info@exelance.org to reach me.
 
