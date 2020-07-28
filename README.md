@@ -21,6 +21,7 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 [![Social banner for Bigo](https://i.pinimg.com/originals/28/7c/51/287c51ba4acb377569428923a674feaf.gif)](https://exelance.org)
 
+<img align='right' src="https://syscoin.org/assets/images/temp/community1.png" width="230">
 
 **Talking about Personal Stuffs:**
 
@@ -45,7 +46,9 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Bigo's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Bigo's github stats](https://github-readme-stats.vercel.app/api?username=EXELANCE-ORG&show_icons=true&hide_border=true)
 
+[![Discord](https://img.shields.io/discord/731577337686130858?label=Join%20The%20DIscord%21&logo=Sadie%20Lang&style=for-the-badge)](https://discord.gg/tRm446W)
+
+<img align='left' src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="230">
 ⭐️ From [Bigo](https://github.com/EXELANCE-ORG)
-[![Social banner for Bigos](https://i.gifer.com/YMY4.gif)](https://exelance.org)
