@@ -1,3 +1,5 @@
+<img align='left' src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="230">
+
 ### Hey 👋, I'm Bigo
 
 <a href="https://www.linkedin.com/in/white-hat">
@@ -50,8 +52,7 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 
 ***As developers, we have a responsibility to protect the data our users trust us with. No one wants to wake up to the news that their site was hacked and all of the user accounts stolen.***
-<img align='right' src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="230">
 
-**Join us!**
 [![Discord](https://img.shields.io/discord/731577337686130858?label=Join%20The%20DIscord%21&logo=Sadie%20Lang&style=for-the-badge)](https://discord.gg/tRm446W)
+
 ⭐️ From [Bigo](https://github.com/EXELANCE-ORG)
