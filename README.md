@@ -48,7 +48,9 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 ![Bigo's github stats](https://github-readme-stats.vercel.app/api?username=EXELANCE-ORG&show_icons=true&hide_border=true)
 
-[![Discord](https://img.shields.io/discord/731577337686130858?label=Join%20The%20DIscord%21&logo=Sadie%20Lang&style=for-the-badge)](https://discord.gg/tRm446W)
 
+Geliştiriciler olarak, kullanıcılarımızın bize güvendiği verileri koruma sorumluluğumuz vardır. Hiç kimse, sitelerinin saldırıya uğradığı ve tüm kullanıcı hesaplarının çalındığı haberini uyandırmak istemiyor.
 <img align='left' src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="230">
+
+[![Discord](https://img.shields.io/discord/731577337686130858?label=Join%20The%20DIscord%21&logo=Sadie%20Lang&style=for-the-badge)](https://discord.gg/tRm446W)
 ⭐️ From [Bigo](https://github.com/EXELANCE-ORG)
