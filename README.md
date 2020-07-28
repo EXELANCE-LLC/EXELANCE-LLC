@@ -22,14 +22,11 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Exelance](https://exelance.org) working on NLP/NLU projects;
+- 👨🏽‍💻 I’m currently an with [Exelance](https://exelance.org) working;
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via info@exelance.org to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
-
 
 **Languages and Tools:**  
 
