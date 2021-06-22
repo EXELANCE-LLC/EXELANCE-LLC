@@ -52,4 +52,4 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 [![Discord](https://img.shields.io/discord/602170807246127123?color=%237289DA&label=EXELANCE%20LLC&logo=discord&logoColor=white)](https://discord.gg/tE9u5Mk)
 
-⭐️ From [Bigo](https://github.com/EXELANCE-ORG)
+⭐️ From [Bigo](https://github.com/EXELANCE-LLC)
