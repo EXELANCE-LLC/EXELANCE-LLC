@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Turkey, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EXELANCE-ORG](https://github.com/EXELANCE-ORG), 👨🏽‍💻 and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Turkey, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EXELANCE-ORG](https://github.com/EXELANCE-LLC), 👨🏽‍💻 and an Artificial Intelligence intern 👨🏽‍💼. 
 
 
 [![Social banner for Bigo](https://i.imgur.com/iepXtWN.png)](https://exelance.org)
