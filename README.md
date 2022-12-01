@@ -23,7 +23,6 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 [![Social banner for Bigo](https://i.imgur.com/iepXtWN.png)](https://exelance.org)
 
-<img align='right' src="https://syscoin.org/assets/images/temp/community1.png" width="230">
 
 **Talking about Personal Stuffs:**
 
