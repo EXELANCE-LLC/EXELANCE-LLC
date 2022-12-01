@@ -49,6 +49,6 @@ Hi there, I'm **Bigo**, a **Web Design Expert** ( Ranked Top 1% Worldwide 🌍 )
 
 ***As developers, we have a responsibility to protect the data our users trust us with. No one wants to wake up to the news that their site was hacked and all of the user accounts stolen.***
 
-[![Discord](https://img.shields.io/discord/602170807246127123?color=%237289DA&label=EXELANCE%20LLC&logo=discord&logoColor=white)](https://discord.gg/tE9u5Mk)
+[![Discord](https://img.shields.io/discord/602170807246127123?color=%237289DA&label=EXELANCE%20LLC&logo=discord&logoColor=white)](https://discord.gg/jCpRkk6rQ6)
 
 ⭐️ From [Bigo](https://github.com/EXELANCE-LLC)
